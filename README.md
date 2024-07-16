@@ -1,21 +1,21 @@
 # 🕹️ Pong Game
-
+## 📸 Screenshots
 ![Pong](1.png)
 
-Bine ați venit la proiectul nostru Pong Game! Acesta este un joc clasic Pong, construit utilizând HTML5 Canvas și JavaScript.
+Welcome to our Pong Game project! This is a classic Pong game built using HTML5 Canvas and JavaScript.
 
-## 🚀 Descriere
-Acest proiect este o implementare simplă a jocului Pong, în care utilizatorul joacă împotriva calculatorului. Scopul jocului este de a atinge primul un scor de 7 puncte pentru a câștiga.
+## 🚀 Description
+This project is a simple implementation of the Pong game, where the player competes against the computer. The goal of the game is to be the first to reach a score of 7 points to win.
 
-## 🛠️ Tehnologii Folosite
+## 🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
-## 📋 Funcționalități
-- Control prin mouse pentru jucător
-- Inteligenta artificială pentru adversarul controlat de calculator
-- Detectarea coliziunilor și actualizarea vitezei bilei
-- Afișarea scorului și a mesajului de sfârșit de joc
-## 🏁 Începe să joci
+## 📋 Features
+- Mouse control for the player
+- AI for the computer-controlled opponent
+- Collision detection and ball speed adjustment
+- Score display and game over message
+## 🏁 Getting Started
 Have fun playing! 🎮
