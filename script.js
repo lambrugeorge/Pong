@@ -83,7 +83,7 @@ function renderCanvas() {
 }
 
 // Create Canvas Element
-function createCanvas() {
+const createCanvas=() => {
   canvas.width = width;
   canvas.height = height;
   body.appendChild(canvas);
